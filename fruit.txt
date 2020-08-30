@@ -1,3 +1,5 @@
 apple
-coconut
+mango
 watermelon
+pears
+oranges
